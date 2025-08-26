@@ -1,7 +1,40 @@
-# LeetCode Clone Youtube Tutorial
+# 🧑‍💻 LeetCode YouTube Clone
 
-### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
+A full-stack coding practice platform inspired by **LeetCode + YouTube**, built with **Next.js, TypeScript, TailwindCSS, Firebase**, and **CodeMirror**.  
+Users can watch coding videos, solve coding problems in-browser, and track progress.
 
-# [Demo](https://youtu.be/igqiduZR-Gg)
+---
 
-![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
+## 🚀 Features
+
+- ⚛️ **Next.js 13 + React 18 + TypeScript** — fast, modern frontend
+- 🎨 **TailwindCSS** — responsive, utility-first styling
+- 🔥 **Firebase (v9 modular)** — authentication & Firestore database
+- 🪝 **react-firebase-hooks** — easy Firebase auth integration
+- 🧩 **Recoil** — global state management
+- ⌨️ **CodeMirror (VSCode theme)** — in-browser coding editor
+- 🎬 **react-youtube** — embed YouTube tutorials
+- 🎉 **react-confetti** — fun celebrations on success
+- 📢 **react-toastify** — toast notifications
+- ➗ **react-split** — resizable panels for editor & output
+- 🧪 **ESLint** — linting with Next.js config
+
+---
+
+## 🧱 Tech Stack
+
+- **Frontend**: Next.js 13, React 18, TypeScript  
+- **Styling**: TailwindCSS  
+- **Editor**: @uiw/react-codemirror, CodeMirror VSCode Theme  
+- **Backend/DB**: Firebase (Auth + Firestore)  
+- **State Management**: Recoil  
+- **Other Utilities**: react-icons, react-toastify, react-confetti, react-youtube  
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/<your-username>/leetcode-yt.git
+cd leetcode-yt
