@@ -1,6 +1,6 @@
 # 🧑‍💻 LeetCode YouTube Clone
 
-A full-stack coding practice platform inspired by **LeetCode + YouTube**, built with **Next.js, TypeScript, TailwindCSS, Firebase**, and **CodeMirror**.  
+A full-stack coding practice platform inspired by **LeetCode**, built with **Next.js, TypeScript, TailwindCSS, Firebase**, and **CodeMirror**.  
 Users can watch coding videos, solve coding problems in-browser, and track progress.
 
 ---
