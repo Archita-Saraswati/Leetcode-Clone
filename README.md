@@ -32,9 +32,4 @@ Users can watch coding videos, solve coding problems in-browser, and track progr
 
 ---
 
-## 📦 Installation
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-username>/leetcode-yt.git
-cd leetcode-yt
